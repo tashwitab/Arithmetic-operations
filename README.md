@@ -13,7 +13,7 @@ THEORY: Arithmetic operators in C++ are used to perform basic mathematical opera
         
 ALGORITHM:
 
-           1.Start 
+           1. Start 
            2. Declare two integer variables: num1 and num2.
            3. Initialize num1 with the value 70 and num2 with the value 12.
            4.Display "num1+num2 = " followed by the result of num1 + num2.
@@ -23,6 +23,7 @@ ALGORITHM:
            8. Display "num1%num2 = " followed by the result of num1 % num2.
            9.Display "num1%num2 = " followed by the result of num1 % num2.
            10. End        
+CONCLUSION: The arithmetic operators are used in the program. 
 
 
 
